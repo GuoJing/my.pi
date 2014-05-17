@@ -1,4 +1,5 @@
 #!/bin/bash
+# this is a python script wrapper of monit
 
 PIDFILE=/tmp/web.pid
 
